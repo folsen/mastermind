@@ -1,0 +1,1 @@
+A small app using EventMachine and sqlite to create a Mastermind-clone game for telnet use, including a high-score list.
